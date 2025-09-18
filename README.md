@@ -1,7 +1,7 @@
 # 소개
 - test_amr_emulator는 차량없이 FMS-AMR의 연결테스트를 가능하게 함
 # 사용법
-- Terminal 실행
+## Terminal 실행
 - 파라메터(amr_params.yaml) 수정
 ```
 $vim ~/test_amr_emulator/config/amr_params.yaml
