@@ -1,7 +1,5 @@
 # 소개
 - test_amr_emulator는 차량없이 FMS-AMR의 연결테스트를 가능하게 함
-- 
-<mark>highlighted text</mark>.
 # 사용법
 - Terminal 실행
 - mqtt server 파라메터(amr_params.yaml) 수정
