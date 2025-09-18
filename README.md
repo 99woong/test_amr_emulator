@@ -5,7 +5,7 @@
 - Terminal 실행
 - mqtt 서버주소 설정
   - server_address 수정
-  - server_address: "tcp://localhost:1883"
+<p style="color:red;">  - server_address: "tcp://localhost:1883"</p>
 ```
 ./test_amr_emulator/config/amr_params.yaml
 
