@@ -1,7 +1,7 @@
 # 소개
 - test_amr_emulator는 차량없이 FMS-AMR의 연결테스트를 가능하게 함
 # 사용법
-## Terminal 실행
+- Terminal 실행
 - 파라메터(amr_params.yaml) 수정
 ```
 $vim ~/test_amr_emulator/config/amr_params.yaml
@@ -40,7 +40,7 @@ $./run.sh
 - 멀티 인스턴스
 
 #Q&A
-https://docs.google.com/spreadsheets/d/17JYczG-rZVLQ3X0q1K-b3GDb2ZMyI-NT3-7OrI3WKLs/edit?gid=0#gid=0
+- https://docs.google.com/spreadsheets/d/17JYczG-rZVLQ3X0q1K-b3GDb2ZMyI-NT3-7OrI3WKLs/edit?gid=0#gid=0
 
 
 
