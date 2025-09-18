@@ -22,7 +22,7 @@ $./run.sh
 ```
 
 # 통신 시퀀스
-
+![Diagram](image/fms_amr_sequence.png)
 
 
 
