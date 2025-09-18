@@ -4,6 +4,9 @@
 # 사용법
 - terminal 실행
 - mqtt 서버주소 설정
+server_address 수정
+mqtt:
+  server_address: "tcp://localhost:1883"
 ```
 ./test_amr_emulator/config/amr_params.yaml
 
@@ -24,7 +27,7 @@ battery_params:
   angular_slope: 0.002
   acceleration_factor: 0.001
 mqtt:
-**  server_address: "tcp://localhost:1883"**
+  server_address: "tcp://localhost:1883"
 - emulator 실행
 
 
