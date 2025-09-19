@@ -9,14 +9,14 @@ $vim ~/test_amr_emulator/config/amr_params.yaml
 ```
 
   - 서버주소
-    mqtt브로커 서버 주소 설정
+    - mqtt브로커 서버 주소 설정
 ```
 mqtt:
   server_address: "tcp://localhost:1883"
 ```
 
   - 차량크기
-    factsheet에 기재될 차량의 크기 설정
+    - factsheet에 기재될 차량의 크기 설정
 ```
 amr_params:
   width: 2.9
@@ -34,7 +34,7 @@ initial_pose:
 ```
 
   - 토픽전송주기
-    차량에서 보내는 비동기토픽(visualization, state) 전송주기 설정
+    - 차량에서 보내는 비동기토픽(visualization, state) 전송주기 설정
 ```
 mqtt:
   visualization_publish_period : 1  # 1[sec]
