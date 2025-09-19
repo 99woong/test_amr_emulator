@@ -16,6 +16,15 @@ mqtt:
   - 차량크기
     factsheet에 기재될 차량의 크기 설정
 ```
+initial_pose:
+  x: 0.0
+  y: 0.0
+  heading: 0.0 
+```
+  - 차량 초기위치
+    에뮬레이터 실행 후 초기 차량 위치 설정
+    최초 에지의 시작노드의 위치(x,y,theta) 일치해야 함
+```
 amr_params:
   width: 2.9
   length : 15.0
