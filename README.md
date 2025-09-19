@@ -22,13 +22,16 @@ amr_params:
 ```
 mqtt:
   visualization_publish_period : 1  # 1[sec]
-  state_publish_period : 3         # 30[sec]
+  state_publish_period : 30         # 30[sec]
 ```
 
 - emulator 실행
 ```
 $./run.sh
 ```
+
+# 토픽명(topic name)
+
 
 # 통신 시퀀스(protocol sequence)
 ![Diagram](images/fms_amr_sequence.png)
