@@ -67,7 +67,8 @@ $./run.sh
 - 멀티 인스턴스
 
 # Q&A
-- https://docs.google.com/spreadsheets/d/17JYczG-rZVLQ3X0q1K-b3GDb2ZMyI-NT3-7OrI3WKLs/edit?gid=0#gid=0
+- 궁금한 부분 또는 이슈 공유는 아래 문서에 추가해주세요.
+  - https://docs.google.com/spreadsheets/d/17JYczG-rZVLQ3X0q1K-b3GDb2ZMyI-NT3-7OrI3WKLs/edit?gid=0#gid=0
 
 # 문의처(Contact)
 질문이나 피드백이 있으시면 아래 e-mail로 연락주세요.
