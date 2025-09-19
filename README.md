@@ -31,13 +31,13 @@ $./run.sh
 ```
 
 # 토픽명(topic name)
-토픽형태는 vda5050/agvs/amr_$(차량번호)/$(토픽명)이며, 차량번호는 0부터 시작합니다.
-ex) 0번차량 토픽명
-- vda5050/agvs/amr_0/visualization
-- vda5050/agvs/amr_0/order
-- vda5050/agvs/amr_0/state
-- vda5050/agvs/amr_0/instantActions
-- vda5050/agvs/amr_0/connection
+- 토픽형태는 vda5050/agvs/amr_$(차량번호)/$(토픽명)이며, 차량번호는 0부터 시작합니다.
+- ex) 0번차량 토픽명
+  - vda5050/agvs/amr_0/visualization
+  - vda5050/agvs/amr_0/order
+  - vda5050/agvs/amr_0/state
+  - vda5050/agvs/amr_0/instantActions
+  - vda5050/agvs/amr_0/connection
 
 
 
